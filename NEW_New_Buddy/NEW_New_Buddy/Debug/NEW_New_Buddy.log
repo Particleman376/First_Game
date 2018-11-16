@@ -1,0 +1,5 @@
+﻿  Game_3.cpp
+  Main.cpp
+  Generating Code...
+Main.obj : error LNK2005: "int gameSelection" (?gameSelection@@3HA) already defined in Game_3.obj
+C:\Users\parti\source\repos\VS projects\NEW_New_Buddy\Debug\NEW_New_Buddy.exe : fatal error LNK1169: one or more multiply defined symbols found
